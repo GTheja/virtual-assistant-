@@ -18,5 +18,5 @@ os.
 random.
 
 
-![alt text](https://github.com/GTheja/sentimentanalysis/blob/master/Screenshot 2020-08-13 at 12.27.49 PM.png)
+![alt text](https://github.com/GTheja/virtual-assistant-/blob/master/Screenshot%202020-08-13%20at%2012.27.49%20PM.png)
 
